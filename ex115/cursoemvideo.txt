@@ -1,0 +1,5 @@
+Rafael;41
+Vanessa;40
+bianca;10
+sofia;1
+max;1
